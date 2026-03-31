@@ -15,14 +15,7 @@ const Footer = () => (
           >
             Full Menu
           </Link>
-          <a
-            href="https://zacapamexicanrestaurantbar.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-body text-xs text-white/50 hover:text-crimson-light transition-colors tracking-wide"
-          >
-            Official Website
-          </a>
+      
           <a
             href="https://www.getsauce.com/order/zacapa-mexican-restaurant-and-bar/menu"
             target="_blank"
